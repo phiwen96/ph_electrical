@@ -1,5 +1,7 @@
 export module electrical.systems;
 
+export import electrical.systems.communication;
+
 import <iostream>;
 
 

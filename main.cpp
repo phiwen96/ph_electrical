@@ -13,6 +13,7 @@ int main()
 {
     std::cout << "Hello, World!\n";
 	fitta ();
+	com ();
 	auto vec = std::vector <int> {1, 2, 3};
 	// assert (len (vec) == 3);
 	// assert (len ({1, 2, 3}) == 3);
